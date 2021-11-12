@@ -1,11 +1,17 @@
 # Simple Reinforcement Learning with AI snake
 
-## 🤝 Connect with me:
-
 ## 💼 Technical Skills
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+## 🤝 Connect with me:
+
+<a href="https://www.facebook.com/sang.vongoc.3532/"><img align="left" src="https://github.com/studiopress/simple-social-icons/blob/develop/icons/SVG/facebook.svg" alt="Sang Vo | Facebook" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 
 ## Instruction
 - You can play the snake game normally by running the file **pure_snake_game.py**.
