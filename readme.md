@@ -10,9 +10,7 @@
 
 [![Sang's github stats](https://github-readme-stats.vercel.app/api?username=sangngoc27042001)](https://github.com/sangngoc27042001)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/sangngoc27042001)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangngoc27042001&layout=compact)](https://github.com/sangngoc27042001)
 
 ## 🤝 Connect with me:
 
