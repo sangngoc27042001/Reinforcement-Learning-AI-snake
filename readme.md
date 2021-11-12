@@ -8,9 +8,9 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.facebook.com/sang.vongoc.3532/"><img align="left" src="https://github.com/studiopress/simple-social-icons/blob/develop/icons/SVG/facebook.svg" alt="Sang Vo | Facebook" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.facebook.com/sang.vongoc.3532/"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/facebook.png" alt="Sang Vo | Facebook" width="21px"/></a>
+<a href="https://www.instagram.com/sangvongoc/"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/instagram.png" alt="Sang Vo | Instagram" width="21px"/></a>
+<a href="sangngoc27042001@gmail.com"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/gmail.png" alt="Sang Vo | Gmail" width="21px"/></a>
 </br>
 
 ## Instruction
